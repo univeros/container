@@ -1,0 +1,19 @@
+{
+    "name": "univeros/container",
+    "description": "The Altair Container package.",
+    "license": "MIT",
+    "homepage": "https://univeros.io",
+    "support": {
+        "issues": "https://github.com/univeros/framework/issues",
+        "source": "https://github.com/univeros/framework"
+    },
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Altair\\Container\\": ""
+        }
+    },
+    "minimum-stability": "dev"
+}
